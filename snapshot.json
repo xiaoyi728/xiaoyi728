@@ -3,9 +3,9 @@
   "name": "xiaoyi233",
   "followers": 3,
   "following": 6,
-  "publicRepos": 8,
+  "publicRepos": 9,
   "stars": 6,
-  "contributions": 33,
+  "contributions": 38,
   "years": 5,
   "languages": {
     "Go": 3796724,
@@ -13,8 +13,8 @@
     "JavaScript": 691017,
     "CSS": 153002,
     "HTML": 33132,
+    "Python": 32109,
     "Shell": 22596,
-    "Python": 8705,
     "PLpgSQL": 3024,
     "Dockerfile": 1591,
     "VBScript": 1259,
@@ -73,6 +73,6 @@
     10,
     10,
     0,
-    0
+    5
   ]
 }
